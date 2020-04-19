@@ -20521,8 +20521,18 @@
   "RootNamespace": "AspNetCoreTodo",
   "Documents": [
     {
+      "FilePath": "c:\\Projects\\AspNetCoreTodo\\AspNetCoreTodo\\Views\\Todo\\Index.cshtml",
+      "TargetPath": "Views\\Todo\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Projects\\AspNetCoreTodo\\AspNetCoreTodo\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Projects\\AspNetCoreTodo\\AspNetCoreTodo\\Views\\Todo\\AddItemPartial.cshtml",
+      "TargetPath": "Views\\Todo\\AddItemPartial.cshtml",
       "FileKind": "mvc"
     },
     {
